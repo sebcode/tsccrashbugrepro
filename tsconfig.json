@@ -1,0 +1,16 @@
+{
+  "include": ["app/**/*"],
+  "compilerOptions": {
+    "target": "es2017",
+    "resolveJsonModule": true,
+    "moduleResolution": "bundler",
+    "allowJs": true,
+    "checkJs": true,
+    "declaration": true,
+    "jsx": "react-jsx",
+    "esModuleInterop": true,
+    "baseUrl": "./",
+    "noEmit": true
+  }
+}
+// vim: set filetype=jsonc:
